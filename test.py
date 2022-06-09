@@ -1,5 +1,6 @@
 
 def hello():
     print("hello world")
-    return 'f'
+    return 'hello'
+
 print(hello())
